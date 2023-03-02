@@ -38,3 +38,11 @@ public class CommentsDemo {
 		System.out.println("Printing the comment provided: "+this.comment);
 	}
 }
+
+/*
+ * To generate the Java Documentation for the program use the below commands:
+ * 1. Open the Command prompt and navigate to the root of the java program. 
+ * 2. javadoc CommentsDemo.java
+ * 
+ *  
+*/
